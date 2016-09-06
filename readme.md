@@ -1,5 +1,6 @@
 Linux常用软件
 =================
+可以使用wget命令获取
 ### 一、java
  - [jdk-1.7_32bit][1.1]---> `https://github.com/lawlite19/LinuxSoftware/blob/master/java/jdk-7u79-linux-i586.tar.gz`
  - [jdk-1.7_64bit][1.2]---> `https://github.com/lawlite19/LinuxSoftware/blob/master/java/jdk-7u79-linux-x64.tar.gz`
