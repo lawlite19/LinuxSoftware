@@ -1,5 +1,6 @@
 Linux常用软件
 =================
+可以使用wget命令获取
 ### 一、java
  - [jdk-1.7_32bit][1.1]---> `https://github.com/lawlite19/LinuxSoftware/blob/master/java/jdk-7u79-linux-i586.tar.gz`
  - [jdk-1.7_64bit][1.2]---> `https://github.com/lawlite19/LinuxSoftware/blob/master/java/jdk-7u79-linux-x64.tar.gz`
@@ -24,6 +25,9 @@ Linux常用软件
 ### 七、rz/sz
   - [lrzsz-0.12.20][7.1]---> `https://github.com/lawlite19/LinuxSoftware/blob/master/rz-sz/lrzsz-0.12.20.tar.gz`
 
+### 八、python
+ - [Python-2.7.12][8.1]---> `https://github.com/lawlite19/LinuxSoftware/blob/master/python/Python-2.7.12.tgz`
+ - [setuptools][8.2]--> `https://github.com/lawlite19/LinuxSoftware/blob/master/python/setuptools-26.1.1.tar.gz`
 [1.1]:https://github.com/lawlite19/LinuxSoftware/blob/master/java/jdk-7u79-linux-i586.tar.gz
 [1.2]:https://github.com/lawlite19/LinuxSoftware/blob/master/java/jdk-7u79-linux-x64.tar.gz
 
@@ -40,3 +44,6 @@ Linux常用软件
 [6.1]:https://github.com/lawlite19/LinuxSoftware/blob/master/hadoop/hadoop-1.2.1.tar.gz
 
 [7.1]:https://github.com/lawlite19/LinuxSoftware/blob/master/rz-sz/lrzsz-0.12.20.tar.gz
+
+[8.1]:https://github.com/lawlite19/LinuxSoftware/blob/master/python/Python-2.7.12.tgz
+[8.2]:https://github.com/lawlite19/LinuxSoftware/blob/master/python/setuptools-26.1.1.tar.gz
