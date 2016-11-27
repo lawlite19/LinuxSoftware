@@ -21,6 +21,8 @@ Linux常用软件
 
 ### 六、hadoop
   - [hadoop-1.2.1][6.1]---> `https://github.com/lawlite19/LinuxSoftware/blob/master/hadoop/hadoop-1.2.1.tar.gz`
+  - [hadoop-2.2.0][6.2]---> `https://github.com/lawlite19/LinuxSoftware/blob/master/hadoop/hadoop-2.2.0.tar.gz`
+ - [hadoop-2.2.0-src][6.2.1]--->`https://github.com/lawlite19/LinuxSoftware/blob/master/hadoop/hadoop-2.2.0-src.tar.gz`
 
 ### 七、rz/sz
   - [lrzsz-0.12.20][7.1]---> `https://github.com/lawlite19/LinuxSoftware/blob/master/rz-sz/lrzsz-0.12.20.tar.gz`
@@ -42,6 +44,8 @@ Linux常用软件
 [5.1]:https://github.com/lawlite19/LinuxSoftware/blob/master/redis/redis-3.0.0.tar.gz
 
 [6.1]:https://github.com/lawlite19/LinuxSoftware/blob/master/hadoop/hadoop-1.2.1.tar.gz
+[6.2]:https://github.com/lawlite19/LinuxSoftware/blob/master/hadoop/hadoop-2.2.0.tar.gz
+[6.2.1]:https://github.com/lawlite19/LinuxSoftware/blob/master/hadoop/hadoop-2.2.0-src.tar.gz
 
 [7.1]:https://github.com/lawlite19/LinuxSoftware/blob/master/rz-sz/lrzsz-0.12.20.tar.gz
 
