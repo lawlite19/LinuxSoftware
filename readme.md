@@ -32,6 +32,8 @@ Linux常用软件
  - [setuptools][8.2]--> `https://raw.githubusercontent.com/lawlite19/LinuxSoftware/blob/master/python/setuptools-26.1.1.tar.gz`
  - [pip][8.3]-->`https://raw.githubusercontent.com/lawlite19/LinuxSoftware/blob/master/python/pip-1.5.4.tar.gz`
  - [wingIDE_32bit][8.4]-->`https://raw.githubusercontent.com/lawlite19/LinuxSoftware/blob/master/python/wingide-5.1.12-1-i386-linux.tar.gz`
+- [wingIDE破解文件][8.4.1]-->`https://raw.githubusercontent.com/lawlite19/LinuxSoftware/blob/master/python/CalcActivationCode.py`
+
 
 
 
@@ -56,3 +58,6 @@ Linux常用软件
 
 [8.1]:https://github.com/lawlite19/LinuxSoftware/blob/master/python/Python-2.7.12.tgz
 [8.2]:https://github.com/lawlite19/LinuxSoftware/blob/master/python/setuptools-26.1.1.tar.gz
+[8.3]:https://github.com/lawlite19/LinuxSoftware/blob/master/python/pip-1.5.4.tar.gz
+[8.4]:https://github.com/lawlite19/LinuxSoftware/blob/master/python/wingide-5.1.12-1-i386-linux.tar.gz
+[8.4.1]:https://github.com/lawlite19/LinuxSoftware/blob/master/python/CalcActivationCode.py
