@@ -3,3 +3,4 @@ jdk-7u79-linux-i586.tar.gz filter=lfs diff=lfs merge=lfs -text
 jdk-7u79-linux-x64.tar.gz filter=lfs diff=lfs merge=lfs -text
 hadoop-2.2.0.tar.gz filter=lfs diff=lfs merge=lfs -text
 “*wingide-5.1.12-1-i386-linux.tar.gz filter=lfs diff=lfs merge=lfs -text
+wingide-5.1.12-1-x86_64-linux.tar.gz filter=lfs diff=lfs merge=lfs -text
