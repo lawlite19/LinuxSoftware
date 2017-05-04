@@ -33,6 +33,8 @@ Linux常用软件
  - [pip][8.3]-->`https://raw.githubusercontent.com/lawlite19/LinuxSoftware/master/python/pip-1.5.4.tar.gz`
  - [wingIDE_32bit][8.4]-->`https://raw.githubusercontent.com/lawlite19/LinuxSoftware/master/python/wingide-5.1.12-1-i386-linux.tar.gz`
 - [wingIDE破解文件][8.4.1]-->`https://raw.githubusercontent.com/lawlite19/LinuxSoftware/master/python/CalcActivationCode.py`
+- tensorflow
+  - [libstdc++.so.6.0.20][8.5]-->`https://raw.githubusercontent.com/lawlite19/LinuxSoftware/master/python/libstdc++.so.6.0.20`
 
 
 
