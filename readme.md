@@ -34,7 +34,8 @@ Linux常用软件
  - [wingIDE_32bit][8.4]-->`https://raw.githubusercontent.com/lawlite19/LinuxSoftware/master/python/wingide-5.1.12-1-i386-linux.tar.gz`
 - [wingIDE破解文件][8.4.1]-->`https://raw.githubusercontent.com/lawlite19/LinuxSoftware/master/python/CalcActivationCode.py`
 - tensorflow
-  - [libstdc++.so.6.0.20][8.5]-->`https://raw.githubusercontent.com/lawlite19/LinuxSoftware/master/python/libstdc++.so.6.0.20`
+  - [glibc-2.17.tar.gz][8.5]-->`https://raw.githubusercontent.com/lawlite19/LinuxSoftware/master/python2.7_tensorflow/glibc-2.17.tar.gz`
+  - [libstdc++.so.6.0.20][8.6]-->`https://raw.githubusercontent.com/lawlite19/LinuxSoftware/master/python2.7_tensorflow/libstdc++.so.6.0.20`
 
 
 
@@ -56,3 +57,5 @@ Linux常用软件
 [8.3]:https://github.com/lawlite19/LinuxSoftware/blob/master/python/pip-1.5.4.tar.gz
 [8.4]:https://github.com/lawlite19/LinuxSoftware/blob/master/python/wingide-5.1.12-1-i386-linux.tar.gz
 [8.4.1]:https://github.com/lawlite19/LinuxSoftware/blob/master/python/CalcActivationCode.py
+[8.5]:https://raw.githubusercontent.com/lawlite19/LinuxSoftware/master/python2.7_tensorflow/glibc-2.17.tar.gz
+[8.6]:https://raw.githubusercontent.com/lawlite19/LinuxSoftware/master/python2.7_tensorflow/libstdc++.so.6.0.20
